@@ -1,0 +1,34 @@
+body {
+    background-color: cornflowerblue;
+}
+.headTitle {
+    display: flex;
+    justify-content: center;
+
+}
+.mainList {
+    border: 1px solid black;
+    margin: 1em;
+    padding: 1em;
+    width: 60%;
+}
+.aside {
+    border: 1px solid black;
+    margin: 1em;
+    padding: 1em;
+    width: 50%;
+    background-color: oldlace;
+}
+.fish {
+    display: flex;
+    margin: 1em;
+    border: 1px solid black;
+}
+img {
+    height: 25%;
+    width: auto;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
